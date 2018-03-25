@@ -1,0 +1,8 @@
+body {
+    color: red;
+}
+
+h2 {
+    content: url("../image/img.jpg");
+    width: 300px;
+}
